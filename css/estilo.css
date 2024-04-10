@@ -114,6 +114,10 @@ button:hover{
     margin-top: 5px;
 }
 
+.redes-sociais a:hover{
+    color: #fff;
+}
+
 .b2{
     margin-top: 10px;
 }
